@@ -18,7 +18,7 @@ Estos scripts se distribuyen bajo la licencia [Licencia MIT](https://opensource.
 ```
 MIT License
 
-Copyright (c) [Tu Nombre]
+Copyright (c) [Diego Sanz Santos]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
