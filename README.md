@@ -8,8 +8,8 @@ No deben utilizarse para actividades ilegales o no éticas.  El uso de estos scr
 ### Carpetas de los diferentes Módulos
 
 1. [Network Tools](./basic_network_tools)
-2. [(./VLAN_PVST/)
-3. [](./PKT/ACLs/)
+2. [Web Hackery](./web_hackery)
+3. [Payloads](./payloads)
 
 **Licencia:**
 
