@@ -5,6 +5,12 @@ No deben utilizarse para actividades ilegales o no éticas.  El uso de estos scr
 
 **Advertencia:** El uso indebido de estos scripts puede resultar en consecuencias legales graves.  Este código se proporciona con fines de aprendizaje y análisis de seguridad.  No me hago responsable del uso que se le dé.
 
+### Carpetas de los diferentes Módulos
+
+1. [](./HSRP/)
+2. [(./VLAN_PVST/)
+3. [](./PKT/ACLs/)
+
 **Licencia:**
 
 Estos scripts se distribuyen bajo la licencia [Licencia MIT](https://opensource.org/licenses/MIT).  Lee atentamente la licencia antes de utilizar o distribuir este código.
